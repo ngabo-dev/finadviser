@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Give me information about IPG.",
+    "answer": "Interpublic Group (IPG) operates in the Consumer Discretionary sector, specifically in Advertising. The company is based in New York, New York."
+  },
+  {
+    "question": "What sector does PHM belong to?",
+    "answer": "Pulte Homes Inc. is a Consumer Discretionary company specializing in Homebuilding, with headquarters in Atlanta, Georgia."
+  },
+  {
+    "question": "What sector does AON belong to?",
+    "answer": "AON belongs to Aon plc, which is in the Financials sector and Insurance Brokers industry, located in London, United Kingdom."
+  },
+  {
+    "question": "Tell me about Parker-Hannifin stock.",
+    "answer": "Parker-Hannifin (PH) operates in the Industrials sector, specifically in Industrial Conglomerates. The company is based in Cleveland, Ohio."
+  },
+  {
+    "question": "Is Fastenal Co in the Industrials sector?",
+    "answer": "Fastenal Co is a Industrials company specializing in Building Products, with headquarters in Winona, Minnesota."
+  },
+  {
+    "question": "What sector does PNW belong to?",
+    "answer": "The company Pinnacle West Capital is part of the Utilities sector and works in MultiUtilities. Headquarters: Phoenix, Arizona."
+  },
+  {
+    "question": "What is the sector of Scripps Networks Interactive Inc.?",
+    "answer": "Scripps Networks Interactive Inc. is in the Consumer Discretionary sector and Broadcasting & Cable TV industry. It's headquartered in Cincinnati, Ohio."
+  },
+  {
+    "question": "Give me information about SHW.",
+    "answer": "The company Sherwin-Williams is part of the Materials sector and works in Specialty Chemicals. Headquarters: Cleveland, Ohio."
+  },
+  {
+    "question": "Tell me the headquarters location of Autodesk Inc.",
+    "answer": "Autodesk Inc (ADSK) operates in the Information Technology sector, specifically in Application Software. The company is based in San Rafael, California."
+  },
+  {
+    "question": "Where is United Health Group Inc. headquartered?",
+    "answer": "UNH belongs to United Health Group Inc., which is in the Health Care sector and Managed Health Care industry, located in Minnetonka, Minnesota."
+  },
+  {
+    "question": "Give me information about UHS.",
+    "answer": "Universal Health Services, Inc. is a Health Care company specializing in Health Care Facilities, with headquarters in King of Prussia, Pennsylvania."
+  },
+  {
+    "question": "Give me information about SWN.",
+    "answer": "Southwestern Energy is in the Energy sector and Oil & Gas Exploration & Production industry. It's headquartered in Houston, Texas[6]."
+  },
+  {
+    "question": "What does Intuitive Surgical Inc. do?",
+    "answer": "ISRG belongs to Intuitive Surgical Inc., which is in the Health Care sector and Health Care Equipment industry, located in Sunnyvale, California."
+  },
+  {
+    "question": "What is the sector of Du Pont (E.I.)?",
+    "answer": "Du Pont (E.I.) is a Materials company specializing in Diversified Chemicals, with headquarters in Wilmington, Delaware."
+  },
+  {
+    "question": "What is the sector of Harris Corporation?",
+    "answer": "Harris Corporation is a Information Technology company specializing in Telecommunications Equipment, with headquarters in Melbourne, Florida."
+  },
+  {
+    "question": "Tell me the headquarters location of Southern Co..",
+    "answer": "Southern Co. is in the Utilities sector and Electric Utilities industry. It's headquartered in Atlanta, Georgia."
+  },
+  {
+    "question": "What is AZO's industry?",
+    "answer": "AutoZone Inc is a Consumer Discretionary company specializing in Specialty Stores, with headquarters in Memphis, Tennessee."
+  },
+  {
+    "question": "What does Time Warner Inc. do?",
+    "answer": "Time Warner Inc. is in the Consumer Discretionary sector and Broadcasting & Cable TV industry. It's headquartered in New York, New York."
+  },
+  {
+    "question": "What industry is F5 Networks in?",
+    "answer": "F5 Networks is in the Information Technology sector and Networking Equipment industry. It's headquartered in Seattle, Washington."
+  },
+  {
+    "question": "Tell me about TransDigm Group stock.",
+    "answer": "TransDigm Group is a Industrials company specializing in Aerospace & Defense, with headquarters in Cleveland, Ohio."
+  },
+  {
+    "question": "Give me information about AON.",
+    "answer": "The company Aon plc is part of the Financials sector and works in Insurance Brokers. Headquarters: London, United Kingdom."
+  },
+  {
+    "question": "What sector does WU belong to?",
+    "answer": "The company Western Union Co is part of the Information Technology sector and works in Internet Software & Services. Headquarters: Englewood, Colorado."
+  },
+  {
+    "question": "What does Cintas Corporation do?",
+    "answer": "Cintas Corporation is in the Industrials sector and Diversified Support Services industry. It's headquartered in Mason, Ohio."
+  },
+  {
+    "question": "Tell me about O'Reilly Automotive stock.",
+    "answer": "The company O'Reilly Automotive is part of the Consumer Discretionary sector and works in Specialty Stores. Headquarters: Springfield, Missouri."
+  },
+  {
+    "question": "Give me information about CNC.",
+    "answer": "Centene Corporation (CNC) operates in the Health Care sector, specifically in Managed Health Care. The company is based in St Louis, Missouri."
+  },
+  {
+    "question": "What is QCOM's industry?",
+    "answer": "QUALCOMM Inc. is a Information Technology company specializing in Semiconductors, with headquarters in San Diego, California."
+  },
+  {
+    "question": "Give me information about NVDA.",
+    "answer": "Nvidia Corporation is a Information Technology company specializing in Semiconductors, with headquarters in Santa Clara, California."
+  },
+  {
+    "question": "Tell me the headquarters location of Berkshire Hathaway.",
+    "answer": "Berkshire Hathaway is in the Financials sector and Multi-Sector Holdings industry. It's headquartered in Omaha, Nebraska."
+  },
+  {
+    "question": "What sector does MAR belong to?",
+    "answer": "The company Marriott Int'l. is part of the Consumer Discretionary sector and works in Hotels, Resorts & Cruise Lines. Headquarters: Bethesda, Maryland."
+  },
+  {
+    "question": "Tell me about Fastenal Co stock.",
+    "answer": "FAST belongs to Fastenal Co, which is in the Industrials sector and Building Products industry, located in Winona, Minnesota."
+  },
+  {
+    "question": "Tell me about Visa Inc. stock.",
+    "answer": "V belongs to Visa Inc., which is in the Information Technology sector and Internet Software & Services industry, located in San Francisco, California."
+  },
+  {
+    "question": "What is RAI's industry?",
+    "answer": "Reynolds American Inc. (RAI) operates in the Consumer Staples sector, specifically in Tobacco. The company is based in Winston-Salem, North Carolina."
+  },
+  {
+    "question": "What industry is Kellogg Co. in?",
+    "answer": "Kellogg Co. is in the Consumer Staples sector and Packaged Foods & Meats industry. It's headquartered in Battle Creek, Michigan."
+  },
+  {
+    "question": "Where is CME Group Inc. headquartered?",
+    "answer": "CME Group Inc. (CME) operates in the Financials sector, specifically in Financial Exchanges & Data. The company is based in Chicago, Illinois."
+  },
+  {
+    "question": "Tell me the headquarters location of Eversource Energy.",
+    "answer": "ES belongs to Eversource Energy, which is in the Utilities sector and MultiUtilities industry, located in Springfield, Massachusetts."
+  },
+  {
+    "question": "What is the sector of Dominion Resources?",
+    "answer": "D belongs to Dominion Resources, which is in the Utilities sector and Electric Utilities industry, located in Richmond, Virginia."
+  },
+  {
+    "question": "Tell me the headquarters location of Kroger Co..",
+    "answer": "KR belongs to Kroger Co., which is in the Consumer Staples sector and Food Retail industry, located in Cincinnati, Ohio."
+  },
+  {
+    "question": "What sector does XOM belong to?",
+    "answer": "Exxon Mobil Corp. (XOM) operates in the Energy sector, specifically in Integrated Oil & Gas. The company is based in Irving, Texas."
+  },
+  {
+    "question": "Tell me about Level 3 Communications stock.",
+    "answer": "Level 3 Communications (LVLT) operates in the Telecommunications Services sector, specifically in Alternative Carriers. The company is based in Broomfield, Colorado."
+  },
+  {
+    "question": "What is the sector of Kraft Heinz Co?",
+    "answer": "KHC belongs to Kraft Heinz Co, which is in the Consumer Staples sector and Packaged Foods & Meats industry, located in Pittsburgh, Pennsylvania."
+  },
+  {
+    "question": "Give me information about MTB.",
+    "answer": "M&T Bank Corp. is a Financials company specializing in Banks, with headquarters in Buffalo, New York."
+  },
+  {
+    "question": "What sector does GWW belong to?",
+    "answer": "The company Grainger (W.W.) Inc. is part of the Industrials sector and works in Industrial Materials. Headquarters: Lake Forest, Illinois."
+  },
+  {
+    "question": "Tell me the headquarters location of Humana Inc..",
+    "answer": "Humana Inc. (HUM) operates in the Health Care sector, specifically in Managed Health Care. The company is based in Louisville, Kentucky."
+  },
+  {
+    "question": "What industry is Illinois Tool Works in?",
+    "answer": "Illinois Tool Works is in the Industrials sector and Industrial Machinery industry. It's headquartered in Glenview, Illinois."
+  },
+  {
+    "question": "What industry is Agilent Technologies Inc in?",
+    "answer": "Agilent Technologies Inc is in the Health Care sector and Health Care Equipment industry. It's headquartered in Santa Clara, California."
+  },
+  {
+    "question": "What industry is Adobe Systems Inc in?",
+    "answer": "Adobe Systems Inc is a Information Technology company specializing in Application Software, with headquarters in San Jose, California."
+  },
+  {
+    "question": "What is the sector of BorgWarner?",
+    "answer": "BWA belongs to BorgWarner, which is in the Consumer Discretionary sector and Auto Parts & Equipment industry, located in Auburn Hills, Michigan."
+  },
+  {
+    "question": "Where is Western Union Co headquartered?",
+    "answer": "The company Western Union Co is part of the Information Technology sector and works in Internet Software & Services. Headquarters: Englewood, Colorado."
+  },
+  {
+    "question": "What sector does TRIP belong to?",
+    "answer": "TripAdvisor is a Consumer Discretionary company specializing in Internet & Direct Marketing Retail, with headquarters in Newton, Massachusetts."
+  },
+  {
+    "question": "Where is Mondelez International headquartered?",
+    "answer": "Mondelez International is in the Consumer Staples sector and Packaged Foods & Meats industry. It's headquartered in Northfield, Illinois."
+  },
+  {
+    "question": "What is the sector of Public Serv. Enterprise Inc.?",
+    "answer": "PEG belongs to Public Serv. Enterprise Inc., which is in the Utilities sector and Electric Utilities industry, located in Newark, New Jersey."
+  },
+  {
+    "question": "What industry is Pitney-Bowes in?",
+    "answer": "Pitney-Bowes is a Industrials company specializing in Technology, Hardware, Software and Supplies, with headquarters in Stamford, Connecticut."
+  },
+  {
+    "question": "Tell me the headquarters location of Omnicom Group.",
+    "answer": "The company Omnicom Group is part of the Consumer Discretionary sector and works in Advertising. Headquarters: New York, New York."
+  },
+  {
+    "question": "What does CSRA Inc. do?",
+    "answer": "CSRA Inc. is a Information Technology company specializing in IT Consulting & Other Services, with headquarters in Falls Church, Virginia."
+  },
+  {
+    "question": "What does FMC Technologies Inc. do?",
+    "answer": "FMC Technologies Inc. is a Energy company specializing in Oil & Gas Equipment & Services, with headquarters in Houston, Texas."
+  },
+  {
+    "question": "Give me information about T.",
+    "answer": "AT&T Inc is a Telecommunications Services company specializing in Integrated Telecommunications Services, with headquarters in Dallas, Texas."
+  },
+  {
+    "question": "What is the sector of Wells Fargo?",
+    "answer": "Wells Fargo is in the Financials sector and Banks industry. It's headquartered in San Francisco, California."
+  },
+  {
+    "question": "What industry is United Parcel Service in?",
+    "answer": "United Parcel Service is a Industrials company specializing in Air Freight & Logistics, with headquarters in Atlanta, Georgia."
+  },
+  {
+    "question": "Is Mylan N.V. in the Health Care sector?",
+    "answer": "The company Mylan N.V. is part of the Health Care sector and works in Pharmaceuticals. Headquarters: Amsterdam, Netherlands."
+  },
+  {
+    "question": "What does Sherwin-Williams do?",
+    "answer": "Sherwin-Williams (SHW) operates in the Materials sector, specifically in Specialty Chemicals. The company is based in Cleveland, Ohio."
+  },
+  {
+    "question": "What is the sector of Iron Mountain Incorporated?",
+    "answer": "Iron Mountain Incorporated is a Real Estate company specializing in REITs, with headquarters in Boston, Massachusetts."
+  },
+  {
+    "question": "Tell me the headquarters location of Marathon Oil Corp..",
+    "answer": "MRO belongs to Marathon Oil Corp., which is in the Energy sector and Oil & Gas Exploration & Production industry, located in Houston, Texas."
+  },
+  {
+    "question": "Where is General Mills headquartered?",
+    "answer": "General Mills is in the Consumer Staples sector and Packaged Foods & Meats industry. It's headquartered in Golden Valley, Minnesota."
+  },
+  {
+    "question": "Tell me about LKQ Corporation stock.",
+    "answer": "LKQ Corporation is a Consumer Discretionary company specializing in Distributors, with headquarters in Chicago, Illinois."
+  },
+  {
+    "question": "Give me information about MSFT.",
+    "answer": "Microsoft Corp. is a Information Technology company specializing in Systems Software, with headquarters in Redmond, Washington."
+  },
+  {
+    "question": "Tell me the headquarters location of Mondelez International.",
+    "answer": "Mondelez International is a Consumer Staples company specializing in Packaged Foods & Meats, with headquarters in Northfield, Illinois."
+  },
+  {
+    "question": "Give me information about ISRG.",
+    "answer": "ISRG belongs to Intuitive Surgical Inc., which is in the Health Care sector and Health Care Equipment industry, located in Sunnyvale, California."
+  },
+  {
+    "question": "What is the sector of Carmax Inc?",
+    "answer": "Carmax Inc (KMX) operates in the Consumer Discretionary sector, specifically in Specialty Stores. The company is based in Richmond, Virginia."
+  },
+  {
+    "question": "Tell me about IDEXX Laboratories stock.",
+    "answer": "IDEXX Laboratories is a Health Care company specializing in Health Care Equipment, with headquarters in Westbrook, Maine."
+  },
+  {
+    "question": "Tell me the headquarters location of Nike.",
+    "answer": "Nike is a Consumer Discretionary company specializing in Apparel, Accessories & Luxury Goods, with headquarters in Washington County, Oregon."
+  },
+  {
+    "question": "What is the sector of Sherwin-Williams?",
+    "answer": "Sherwin-Williams (SHW) operates in the Materials sector, specifically in Specialty Chemicals. The company is based in Cleveland, Ohio."
+  },
+  {
+    "question": "What sector does PEP belong to?",
+    "answer": "PEP belongs to PepsiCo Inc., which is in the Consumer Staples sector and Soft Drinks industry, located in Purchase, New York."
+  },
+  {
+    "question": "Is Endo International in the Health Care sector?",
+    "answer": "The company Endo International is part of the Health Care sector and works in Pharmaceuticals. Headquarters: Dublin, Ireland."
+  },
+  {
+    "question": "Tell me about 3M Company stock.",
+    "answer": "The company 3M Company is part of the Industrials sector and works in Industrial Conglomerates. Headquarters: St. Paul, Minnesota."
+  },
+  {
+    "question": "What does NRG Energy do?",
+    "answer": "The company NRG Energy is part of the Utilities sector and works in Independent Power Producers & Energy Traders. Headquarters: Princeton, New Jersey."
+  },
+  {
+    "question": "Where is Cerner headquartered?",
+    "answer": "CERN belongs to Cerner, which is in the Health Care sector and Health Care Technology industry, located in North Kansas City, Missouri."
+  },
+  {
+    "question": "Tell me about Verisk Analytics stock.",
+    "answer": "VRSK belongs to Verisk Analytics, which is in the Industrials sector and Research & Consulting Services industry, located in Jersey City, New Jersey."
+  },
+  {
+    "question": "What industry is Ford Motor in?",
+    "answer": "Ford Motor is in the Consumer Discretionary sector and Automobile Manufacturers industry. It's headquartered in Dearborn, Michigan."
+  },
+  {
+    "question": "What sector does AIZ belong to?",
+    "answer": "AIZ belongs to Assurant Inc, which is in the Financials sector and Multi-line Insurance industry, located in New York, New York."
+  },
+  {
+    "question": "What is KIM's industry?",
+    "answer": "Kimco Realty (KIM) operates in the Real Estate sector, specifically in REITs. The company is based in New Hyde Park, New York."
+  },
+  {
+    "question": "What sector does SPG belong to?",
+    "answer": "SPG belongs to Simon Property Group Inc, which is in the Real Estate sector and REITs industry, located in Indianapolis, Indiana."
+  },
+  {
+    "question": "Give me information about TDG.",
+    "answer": "TransDigm Group (TDG) operates in the Industrials sector, specifically in Aerospace & Defense. The company is based in Cleveland, Ohio."
+  },
+  {
+    "question": "What is the sector of Intl Flavors & Fragrances?",
+    "answer": "Intl Flavors & Fragrances is in the Materials sector and Specialty Chemicals industry. It's headquartered in New York, New York."
+  },
+  {
+    "question": "What does Schlumberger Ltd. do?",
+    "answer": "Schlumberger Ltd. is a Energy company specializing in Oil & Gas Equipment & Services, with headquarters in Cura\u00e7ao, Kingdom of the Netherlands."
+  },
+  {
+    "question": "What sector does MMC belong to?",
+    "answer": "Marsh & McLennan is a Financials company specializing in Insurance Brokers, with headquarters in New York, New York."
+  },
+  {
+    "question": "Is Yum! Brands Inc in the Consumer Discretionary sector?",
+    "answer": "Yum! Brands Inc (YUM) operates in the Consumer Discretionary sector, specifically in Restaurants. The company is based in Louisville, Kentucky."
+  },
+  {
+    "question": "Is BlackRock in the Financials sector?",
+    "answer": "BLK belongs to BlackRock, which is in the Financials sector and Asset Management & Custody Banks industry, located in New York, New York."
+  },
+  {
+    "question": "Where is Marriott Int'l. headquartered?",
+    "answer": "The company Marriott Int'l. is part of the Consumer Discretionary sector and works in Hotels, Resorts & Cruise Lines. Headquarters: Bethesda, Maryland."
+  },
+  {
+    "question": "What does Caterpillar Inc. do?",
+    "answer": "CAT belongs to Caterpillar Inc., which is in the Industrials sector and Construction & Farm Machinery & Heavy Trucks industry, located in Peoria, Illinois."
+  },
+  {
+    "question": "What is the sector of Universal Health Services, Inc.?",
+    "answer": "Universal Health Services, Inc. (UHS) operates in the Health Care sector, specifically in Health Care Facilities. The company is based in King of Prussia, Pennsylvania."
+  },
+  {
+    "question": "Tell me the headquarters location of Illinois Tool Works.",
+    "answer": "ITW belongs to Illinois Tool Works, which is in the Industrials sector and Industrial Machinery industry, located in Glenview, Illinois."
+  },
+  {
+    "question": "What industry is Progressive Corp. in?",
+    "answer": "The company Progressive Corp. is part of the Financials sector and works in Property & Casualty Insurance. Headquarters: Mayfield Village, Ohio."
+  },
+  {
+    "question": "Is Stanley Black & Decker in the Consumer Discretionary sector?",
+    "answer": "Stanley Black & Decker (SWK) operates in the Consumer Discretionary sector, specifically in Household Appliances. The company is based in New Britain, Connecticut."
+  },
+  {
+    "question": "What sector does CAG belong to?",
+    "answer": "ConAgra Foods Inc. (CAG) operates in the Consumer Staples sector, specifically in Packaged Foods & Meats. The company is based in Omaha, Nebraska."
+  },
+  {
+    "question": "Tell me the headquarters location of Masco Corp..",
+    "answer": "MAS belongs to Masco Corp., which is in the Industrials sector and Building Products industry, located in Taylor, Michigan."
+  },
+  {
+    "question": "Tell me the headquarters location of Abbott Laboratories.",
+    "answer": "Abbott Laboratories is in the Health Care sector and Health Care Equipment industry. It's headquartered in North Chicago, Illinois."
+  },
+  {
+    "question": "Is Macerich in the Real Estate sector?",
+    "answer": "Macerich is in the Real Estate sector and Retail REITs industry. It's headquartered in Santa Monica, California."
+  },
+  {
+    "question": "Tell me the headquarters location of HCP Inc..",
+    "answer": "HCP Inc. (HCP) operates in the Real Estate sector, specifically in REITs. The company is based in Long Beach, California."
+  },
+  {
+    "question": "Tell me about CMS Energy stock.",
+    "answer": "CMS Energy is a Utilities company specializing in MultiUtilities, with headquarters in Jackson, Michigan."
+  },
+  {
+    "question": "Is Citizens Financial Group in the Financials sector?",
+    "answer": "Citizens Financial Group is a Financials company specializing in Regional Banks, with headquarters in Providence, Rhode Island."
+  }
+]
