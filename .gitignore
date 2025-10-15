@@ -137,3 +137,20 @@ logs/
 *.tmp
 *.swp
 *.swo
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
