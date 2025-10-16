@@ -156,5 +156,5 @@ ENV/
 Thumbs.db
 
 # Large model files (exclude from deployment)
-models/
-my_project_backup/
+# models/
+# my_project_backup/
